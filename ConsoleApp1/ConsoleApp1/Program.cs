@@ -7,3 +7,5 @@ Console.WriteLine("Witaj w kalkulatorze.");
 int temp = 15;
 
 Console.WriteLine("Licz!!!!");
+
+// koniec programu
