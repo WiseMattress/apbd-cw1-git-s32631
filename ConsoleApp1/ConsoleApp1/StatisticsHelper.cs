@@ -6,4 +6,6 @@ public class StatisticsHelper
     
     public void CalculateMax(int[] values) {}
     public void CalculateMin(int[] values) {}
+    
+    public void CalculateMinNew(int[] values) {}
 }
